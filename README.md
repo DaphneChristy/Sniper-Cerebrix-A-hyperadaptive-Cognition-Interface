@@ -114,6 +114,13 @@ And:
 🔊 Audio output (.wav files) → via TTS
 🖼 Imagery output (128×128 images) → reconstructed visuals
 
+## Output Samples
+
+![Output1](outputs/images/output1.jpeg)
+![Output2](outputs/images/output2.jpeg)
+![Output3](outputs/images/output3.jpeg)
+![Output4](outputs/images/output4.jpeg)
+
 ---
 
 ##  Future Scope
